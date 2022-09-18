@@ -13,11 +13,6 @@ query100Lines(){
 }
 
 
-for file in "level2.level1." "level3.level2.level1." \
-        "level4.level3.level2.level1." "level5.level4.level3.level2.level1." \
-        "level6.level5.level4.level3.level2.level1." \
-        "level7.level6.level5.level4.level3.level2.level1."; \
-        do query100Lines $file; done
 
 for file in "level2.level1." "level3.level2.level1." \
         "level4.level3.level2.level1." "level5.level4.level3.level2.level1." \
