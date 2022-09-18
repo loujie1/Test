@@ -1,6 +1,6 @@
 .:53 {
     root ./zones
-    file root.db
+    file db..signed
     log
 }
 

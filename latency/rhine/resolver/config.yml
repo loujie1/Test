@@ -136,9 +136,9 @@ qname_min_level = 5
 # ]
 emptyzones = []
   
-  cacertificatefile = "~/Test/latency/rhine/resolver/certificates/CACert.pem"
+cacertificatefile = "~/Test/latency/rhine/resolver/certificates/CACert.pem"
   
-  loggerpubkeyfile = "~/Test/latency/rhine/resolver/logger/log.pem"
+loggerpubkeyfile = "~/Test/latency/rhine/resolver/logger/log.pem"
   
 scion = false
 # You can add your own plugins to sdns. The plugin order is very important. 

@@ -1,6 +1,6 @@
 .:53 {
     root ./zones
-    rhine root.db
+    rhine db..signed
     log
 }
 

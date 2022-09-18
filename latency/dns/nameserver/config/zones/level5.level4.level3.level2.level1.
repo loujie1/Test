@@ -2,7 +2,7 @@ level5.level4.level3.level2.level1.	604800	IN	SOA	ns.level5.level4.level3.level2
 level5.level4.level3.level2.level1.	604800	IN	NS	ns.level5.level4.level3.level2.level1.
 
 level6.level5.level4.level3.level2.level1.	604800	IN	NS	ns.level6.level5.level4.level3.level2.level1.
-ns.level6.level5.level4.level3.level2.level1.	604800	IN	A	10.114.16.4
+ns.level6.level5.level4.level3.level2.level1.	604800	IN	A	10.114.0.2
 
 00vug3.level5.level4.level3.level2.level1.	604800	IN	A	198.41.0.4
 kh76ci.level5.level4.level3.level2.level1.	604800	IN	A	198.41.0.4

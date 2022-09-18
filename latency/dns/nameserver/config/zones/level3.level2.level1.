@@ -2,7 +2,7 @@ level3.level2.level1.	604800	IN	SOA	ns.level3.level2.level1. hostmaster.level3.l
 level3.level2.level1.	604800	IN	NS	ns.level3.level2.level1.
 
 level4.level3.level2.level1.	604800	IN	NS	ns.level4.level3.level2.level1.
-ns.level4.level3.level2.level1.	604800	IN	A	10.114.16.7
+ns.level4.level3.level2.level1.	604800	IN	A	10.114.0.6
 
 tm521q.level3.level2.level1.	604800	IN	A	198.41.0.4
 a3yv5n.level3.level2.level1.	604800	IN	A	198.41.0.4

@@ -2,7 +2,7 @@ level4.level3.level2.level1.	604800	IN	SOA	ns.level4.level3.level2.level1. hostm
 level4.level3.level2.level1.	604800	IN	NS	ns.level4.level3.level2.level1.
 
 level5.level4.level3.level2.level1.	604800	IN	NS	ns.level5.level4.level3.level2.level1.
-ns.level5.level4.level3.level2.level1.	604800	IN	A	10.114.16.8
+ns.level5.level4.level3.level2.level1.	604800	IN	A	10.114.0.3
 
 jzbruc.level4.level3.level2.level1.	604800	IN	A	198.41.0.4
 8tkgn4.level4.level3.level2.level1.	604800	IN	A	198.41.0.4

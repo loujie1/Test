@@ -2,7 +2,7 @@ level2.level1.	604800	IN	SOA	ns.level2.level1. hostmaster.level2.level1. 1659288
 level2.level1.	604800	IN	NS	ns.level2.level1.
 
 level3.level2.level1.	604800	IN	NS	ns.level3.level2.level1.
-ns.level3.level2.level1.	604800	IN	A	10.114.16.6
+ns.level3.level2.level1.	604800	IN	A	10.114.0.8
 
 zk15an.level2.level1.	604800	IN	A	198.41.0.4
 9d4bct.level2.level1.	604800	IN	A	198.41.0.4
