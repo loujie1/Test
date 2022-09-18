@@ -1,8 +1,8 @@
 query100LinesWithOutput(){
-  head -n 100 "$1" |
+  head -n 120 "$1" |
   while read -r line ; do
-    ./rdig -port 53 -rhine -config=./config.yml -fallback -output="./output/$1_nocache" @10.114.16.5 "$line"
-    sleep 4
+    ./rdig -port 53 -rhine -config=./config.yml -fallback -output="./output/100ms/$1_nocache" @10.114.16.5 "$line"
+    sleep 5
   done
 }
 
