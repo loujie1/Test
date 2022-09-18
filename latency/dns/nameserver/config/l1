@@ -1,0 +1,6 @@
+level1.:53 {
+    root ./zones
+    file level1.
+    log
+}
+

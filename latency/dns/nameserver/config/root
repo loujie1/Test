@@ -1,0 +1,6 @@
+.:53 {
+    root ./zones
+    file root.db
+    log
+}
+
