@@ -1,7 +1,7 @@
 query100LinesWithOutput(){
   head -n 100 "$1" |
   while read -r line ; do
-    /rdig -port 53 -rhine -config=./config.yml -fallback -output="./output/$1_cached" @10.114.16.5 "$line"
+    ./rdig -port 53 -rhine -config=./config.yml -fallback -output="./output/$1_cached" @10.114.16.5 "$line"
   done
 }
 
