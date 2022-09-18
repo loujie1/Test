@@ -1,6 +1,6 @@
 level1.:53 {
     root ./zones
-    file level1.
+    rhine level1.
     log
 }
 

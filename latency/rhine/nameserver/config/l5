@@ -1,6 +1,6 @@
 level5.level4.level3.level2.level1.:53 {
     root ./zones
-    file level5.level4.level3.level2.level1.
+    rhine level5.level4.level3.level2.level1.
     log
 }
 
