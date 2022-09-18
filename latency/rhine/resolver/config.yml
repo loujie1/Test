@@ -26,7 +26,7 @@ outboundip6s = [
 
 # Root zone ipv4 servers
 rootservers = [
-"10.114.16.11:53"
+"10.114.16.2:53"
 ]
 
 # Root zone ipv6 servers
@@ -136,9 +136,9 @@ qname_min_level = 5
 # ]
 emptyzones = []
   
-cacertificatefile = "~/Test/latency/rhine/resolver/certificates/CACert.pem"
+cacertificatefile = "./certificates/CACert.pem"
   
-loggerpubkeyfile = "~/Test/latency/rhine/resolver/logger/log.pem"
+loggerpubkeyfile = "./logger/log.pem"
   
 scion = false
 # You can add your own plugins to sdns. The plugin order is very important. 

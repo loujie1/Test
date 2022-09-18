@@ -1,6 +1,6 @@
 # Config version, config and build versions can be different.
 version = "%s"
 
-cacertificatefile = "./testdata/certificate/CACert.pem"
+cacertificatefile = "./certificates/CACert.pem"
 
-loggerpubkeyfile = "./testdata/logger/log.pem"
+loggerpubkeyfile = "./logger/log.pem"
