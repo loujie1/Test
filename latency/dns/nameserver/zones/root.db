@@ -2,7 +2,7 @@
 .	604800	IN	NS	sri-nic.arpa.
 
 level1.	604800	IN	NS	ns.level1.
-ns.level1.	604800	IN	A	10.114.16.3
+ns.level1.	604800	IN	A	10.114.16.8
 
 a.	604800	IN	A	198.41.0.4
 

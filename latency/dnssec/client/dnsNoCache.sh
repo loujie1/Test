@@ -1,7 +1,7 @@
 query100LinesWithOutput(){
   head -n 100 "$1" |
   while read -r line ; do
-    ./q -port 53 -dnssec -check -output="./output/$1_nocache" @10.114.16.5 "$line"
+    ./q -port 53 -dnssec -check -output="./output/10ms/$1_nocache" @10.114.16.9 "$line"
     sleep 4
   done
 }

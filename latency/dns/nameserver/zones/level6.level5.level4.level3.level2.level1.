@@ -2,7 +2,7 @@ level6.level5.level4.level3.level2.level1.	604800	IN	SOA	ns.level6.level5.level4
 level6.level5.level4.level3.level2.level1.	604800	IN	NS	ns.level6.level5.level4.level3.level2.level1.
 
 level7.level6.level5.level4.level3.level2.level1.	604800	IN	NS	ns.level7.level6.level5.level4.level3.level2.level1.
-ns.level7.level6.level5.level4.level3.level2.level1.	604800	IN	A	10.114.16.11
+ns.level7.level6.level5.level4.level3.level2.level1.	604800	IN	A	10.114.16.5
 
 w1b1lb.level6.level5.level4.level3.level2.level1.	604800	IN	A	198.41.0.4
 roywnt.level6.level5.level4.level3.level2.level1.	604800	IN	A	198.41.0.4

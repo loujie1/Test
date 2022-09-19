@@ -27,7 +27,7 @@ outboundip6s = [
 
 # Root zone ipv4 servers
 rootservers = [
-"10.114.16.2:53",
+"10.114.16.3:53",
 ]
 
 # Root zone ipv6 servers
